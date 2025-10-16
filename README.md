@@ -1,4 +1,4 @@
-## AI-Grammar-Corretor
+##  AI Grammar Corrector
  
 AI Grammar Corrector is a web application that automatically corrects grammar and spelling mistakes using Google Gemini 2.5 Flash. 
 It also provides multiple alternate corrected versions to enhance readability and natural phrasing. Built with Node.js, Express, and EJS,
